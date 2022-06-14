@@ -1,4 +1,4 @@
-Excerpt from the SQLite Blessing
+Excerpt from the ![SQLite Blessing](https://spdx.org/licenses/blessing.html)
 >    May you do good and not evil.
 
 >    May you find forgiveness for yourself and forgive others.
